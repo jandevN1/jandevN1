@@ -1,11 +1,15 @@
 ## Hi there 👋
 
+I'm currently a beginner here, trying to learn front-end development using roadmap.sh, so I can eventually get a job in the field!
+
+Programming and everything surrounding it is very interesting, I love learning about how the internet and our applications actually work and why they do.
+
 <!--
 **jandevN1/jandevN1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
